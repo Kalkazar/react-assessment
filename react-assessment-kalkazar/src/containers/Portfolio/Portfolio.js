@@ -66,8 +66,10 @@ class Portfolio extends Component {
                     <p><i>Environments:</i> HTML, CSS JavaScript, NodeJS, jQuery, Axios, Visual Stuido Code</p>
                     <h4>Personal Website Design Project</h4>
                     <ul>
-                        <li>Created this website here</li>
-                        <li>[I'll fill out the rest of these when the updated resume thing is due on Tuesday]</li>
+                        <li>Designed the layout of this portfolio website</li>
+                        <li>Produced multiple webpages from a single html file using React and JavaScript</li>
+                        <li>Embedded links, images, and downloadable pdfs directly into the HTML</li>
+                        <li>Added special functionalities using CSS, such as hover-states for links</li>
                     </ul>
                     <p><i>Environments:</i> React, JavaScript, HTML, CSS, Visual Stuido Code</p>
                 </div>
