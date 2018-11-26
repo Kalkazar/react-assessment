@@ -11,29 +11,31 @@ class About extends Component {
                     <h1>About Me</h1>
                 </heading>
                 <p>
-                    Back when I was a kid, before I has any real understanding of the world,
-                    my first idea of “what I wanted to be when I grow up” was an inventor. I
-                    didn’t really know what that entailed, but I’ve always been interested in
-                    finding solutions to problems. Trying to solve Zen Koans was always a
-                    pursuit of mine, I still think my solution to the “chicken and egg” problem
-                    that I came up with in third grade was pretty good.
+                    Back when I was a kid, before I has any real understanding of the world, my
+                    first idea of “what I wanted to be when I grow up” was an inventor. I didn’t
+                    really know what that entailed, but I’ve always been interested in finding
+                    solutions to problems. Trying to solve Zen Koans was a pursuit of mine, and I
+                    still think the solution to the “chicken and egg” problem that I came up with
+                    in third grade is pretty solid. (The egg came first, because of evolution:
+                    the parents of the first true chicken egg had not fully evolved into chickens
+                    themselves).
                 </p>
                 <p>
-                    When I got to college, I originally intended to major in computer science,
-                    but I ultimately earned my Bachelor’s in Applied Math, because I assumed the
-                    degree would be a more widely applicable. However, after leaving the
-                    University of Connecticut, I still didn’t know what I wanted to do with my life.
-                    So I went back to my roots. I found the FastTrack program through Cook Systems,
-                    and through them, have managed to become a versatile associate Java developer.
+                    When I got to college, I originally intended to major in computer science, but
+                    I ultimately earned my Bachelor’s in Applied Math, because I assumed the degree
+                    would be a more widely applicable. However, after leaving the University of
+                    Connecticut, I still didn’t know what I wanted to do with my life. So I went
+                    back to my roots. I found the FastTrack program through Cook Systems, and
+                    through them, have managed to become a versatile associate Java developer.
                 </p>
                 <p>
-                    Outside of work, I’ve indulged in a number of artistic pursuits. As a child, I
-                    did a lot of cartooning: managed to win a few art contests and even submitted
-                    something to the New Yorker. The New Yorker gig didn’t work out, obviously, but
-                    I still got what I thought was an unusually encouraging rejection letter from
-                    the guys. In college, I did a lot of performing arts stuff: playing leading roles
-                    in Shakespeare and Sondheim productions, and traveling around the country to sing
-                    with a variety of different types of choirs.
+                    Outside of work, I’ve played leading roles in Shakespeare and Sondheim
+                    productions, toured the Southern U.S. to sing tenor in a gospel choir, and sung
+                    bass/baritone in a chamber symphony at Carnegie Hall. I’ve traveled outside the
+                    country as well, having visited England, Peru, Ireland, Puerto Rico, China, and
+                    most of Western Europe. I believe that the communication skills I’ve acquired
+                    as a result of these experiences, along with my various technical skills, will
+                    make me a valuable asset to whatever team I wind up working with.
                 </p>
             </div>
         )
